@@ -13,6 +13,8 @@ public class dateformat {
 		
 		SimpleDateFormat sdf = new SimpleDateFormat("MM/dd/yyyy");
 		System.out.println(sdf.format(d));
+		System.out.println("vedan");
+		System.out.println("vedan1");
 
 	}
 
