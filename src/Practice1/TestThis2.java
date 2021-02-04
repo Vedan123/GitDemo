@@ -21,4 +21,5 @@ Student1 s1=new Student1(111,"ankit",5000f);
 Student1 s2=new Student1(112,"sumit",6000f);  
 s1.display();  
 s2.display();  
+System.out.println("vedan");
 }}  

@@ -18,6 +18,9 @@ public class dateformat {
 		
 		System.out.println("vedan2");
 		System.out.println("vedan3");
+		
+		System.out.println("vedan4");
+		System.out.println("vedan5");
 
 	}
 
