@@ -15,6 +15,9 @@ public class dateformat {
 		System.out.println(sdf.format(d));
 		System.out.println("vedan");
 		System.out.println("vedan1");
+		
+		System.out.println("vedan2");
+		System.out.println("vedan3");
 
 	}
 
